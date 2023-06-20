@@ -1,0 +1,14 @@
+Package: atm
+Type: Package
+Title: atm
+Version: 0.1.0
+Author: jars3n
+Maintainer: Who to complain to <JARS3N@GMAIL.COM>
+Description: change atm
+License: none
+Imports:
+        XML,
+        shiny,
+        R.utils
+Encoding: UTF-8
+LazyData: true
